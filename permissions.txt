@@ -1,0 +1,10 @@
+total 52
+drwxrwxr-x 2 devasc devasc  4096 May 14 12:09 backup
+-rw-rw-r-- 1 devasc devasc   327 May 14 09:38 git_log.txt
+-rwx------ 1 devasc devasc   284 May 14 11:54 info_network.py
+-rw-rw-r-- 1 devasc devasc     6 May 14 12:13 issue_summary.txt
+-rw-rw-r-- 1 devasc devasc 24512 May 14 12:16 lab_quiz_jade.zip
+-rw-rw-r-- 1 devasc devasc    10 May 14 09:37 networking_notes.txt
+-rw-rw-r-- 1 devasc devasc     6 May 14 11:54 network_issue.txt
+-rw-rw-r-- 1 devasc devasc     0 May 14 12:19 permissions.txt
+-rw-rw-r-- 1 devasc devasc    26 May 14 09:15 README.md
